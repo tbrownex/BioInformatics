@@ -1,0 +1,3 @@
+Update GIT
+Add Bayesian to optimize parms
+Try XGBoost and SVM, etc.
